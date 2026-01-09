@@ -9,7 +9,6 @@
 efra.oecu@gmail.com
 ```
 
-```
-[Googleのトップページはこちら](https://www.google.com)
+
 [ホームページはこちら] (https://efra-oecu.com/)
-```
+
