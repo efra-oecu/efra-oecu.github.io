@@ -1,7 +1,7 @@
 /* style.css の中身 */
 body {
- background-color: #000000; /* 背景色を黒に設定 */
-  color: #ffffff;            /* 文字色を白に設定 */
+ background-color:#ffffff ; /* 背景色を黒に設定 */
+  color: #000000;            /* 文字色を白に設定 */
   font-family: sans-serif;
 }
 h1 {
